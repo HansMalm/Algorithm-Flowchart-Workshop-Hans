@@ -165,7 +165,7 @@ START
 total = 0
 count = 0
 WHILE count < 7 DO
-  total = total + INPUT 
+  total = total + INPUT
   count = count + 1
 ENDWHILE
 average = total / 7
