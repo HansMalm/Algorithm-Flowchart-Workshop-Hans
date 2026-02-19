@@ -211,7 +211,12 @@ otherwise **"Fail"**.
 
 ```text
 START
-
+INPUT marks
+IF marks >= 50 THEN
+  PRINT "Pass"
+ELSE
+  PRINT "Fail"
+ENDIF
 END
 ```
 
