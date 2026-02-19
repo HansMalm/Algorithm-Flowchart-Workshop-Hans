@@ -68,7 +68,9 @@ Display "Average: ", average
 End
 ```
 
-###  Flowchart
+### ✔ Flowchart
+
+![](./images/flowchart2.jpg)
 
 ---
 
