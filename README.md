@@ -257,7 +257,22 @@ END
 ## 10. Calculate Discount on Purchase
 
 Write the algorithm and draw the flowchart for a program that inputs the
-purchase amount and gives a **10% discount** if the amount is greater
-than 1000.
+purchase amount and gives a **10% discount** if the amount is greater than 1000.
+
+### ✔ Pseudocode
+
+```text
+START
+INPUT priceTotal
+IF priceTotal > 1000 THEN
+  priceTotal = priceTotal * 0.9
+ENDIF
+Print "The total price is " + priceTotal
+END
+```
+
+### ✔ Flowchart
+
+![](./images/flowchart10.jpg)
 
 ---
