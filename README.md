@@ -135,12 +135,47 @@ interest using the formula:
 - **R = Rate of Interest** → percentage per year
 - **T = Time** → number of years
 
+### ✔ Pseudocode
+
+```text
+START
+INPUT P
+INPUT R
+INPUT T
+SI = (P * R * T) / 100
+PRINT "The interest will be " + SI
+END
+```
+
+### ✔ Flowchart
+
+![](./images/flowchart5.jpg)
+
 ---
 
 ## 6. Average Temperature Calculation
 
 Write the algorithm and draw the flowchart for a program that takes the
 temperature of 7 days, finds the average temperature, and displays it.
+
+### ✔ Pseudocode
+
+```text
+START
+total = 0
+count = 0
+WHILE count < 7 DO
+  total = total + INPUT 
+  count = count + 1
+ENDWHILE
+average = total / 7
+PRINT "Average temperature is " + average
+END
+```
+
+### ✔ Flowchart
+
+image
 
 ---
 
