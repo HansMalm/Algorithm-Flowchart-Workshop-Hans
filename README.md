@@ -175,7 +175,7 @@ END
 
 ### ✔ Flowchart
 
-image
+![](./images/flowchart6.jpg)
 
 ---
 
@@ -184,6 +184,21 @@ image
 Create an algorithm and flowchart to input length and width, calculate
 the area (**Area = Length × Width**), and display the result.
 
+### ✔ Pseudocode
+
+```text
+START
+INPUT length
+INPUT width
+area = length * width
+PRINT "The area is " + area
+END
+```
+
+### ✔ Flowchart
+
+![](./images/flowchart7.jpg)
+
 ---
 
 ## 8. Determine Pass or Fail
@@ -191,6 +206,18 @@ the area (**Area = Length × Width**), and display the result.
 Write the algorithm and draw the flowchart for a program that takes a
 student's average marks and displays **"Pass"** if average ≥ 50,
 otherwise **"Fail"**.
+
+### ✔ Pseudocode
+
+```text
+START
+
+END
+```
+
+### ✔ Flowchart
+
+![](./images/flowchart8.jpg)
 
 ---
 
