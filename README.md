@@ -58,14 +58,15 @@ marks for 3 subjects, calculates the total and average, and displays
 both.
 
 ### ✔ Pseudocode
+
 ```text
-Start
-Input mark1, mark2, mark3
+START
+INPUT mark1, mark2, mark3
 total = mark1 + mark2 + mark3
 average = total / 3
-Display "Total: ", total
-Display "Average: ", average
-End
+PRINT "Total: ", total
+PRINT "Average: ", average
+END
 ```
 
 ### ✔ Flowchart
@@ -78,6 +79,22 @@ End
 
 Create an algorithm and flowchart that input a number and display its
 multiplication table from 1 to 10 using a loop.
+
+### ✔ Pseudocode
+
+
+```text
+START
+INPUT number
+FOR i = 1, i <= 10, i++
+  PRINT number" * "i" = " number * i
+END FOR
+END
+```
+
+### ✔ Flowchart
+
+![](./images/flowchart3.jpg)
 
 ---
 
